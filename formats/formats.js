@@ -4,10 +4,7 @@
 	// Note: This is the list of formats
 // The rules that formats use are stored in data/rulesets.js
 
-exports.Formats = [
-
-	//Random Formats
-	////////////////////////////////////////////////////////////////////
+exports.Formats =
 
 		
 
@@ -43,7 +40,7 @@ exports.Formats = [
 		team: 'random',
 		ruleset: ['Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod', 'CAP Pokemon', 'Standard', 'Team Preview', 'Swagger Clause', 'Baton Pass Clause']
 	},
-	{
+	
 
 
 custom/read.js (config.js)
