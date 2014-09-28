@@ -147,6 +147,7 @@ exports.herokuhack = false;
 // displayed in the client.
 exports.customavatars = {
 	//'userid': 'customavatar.png'
+	rosepetal': 'http://i.imgur.com/Evh1So1.png'
 	//add a isername here and add a , after each one but the last one follow the insturections above
 };
 
