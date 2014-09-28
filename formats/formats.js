@@ -9,7 +9,7 @@ exports.Formats =
          section: "Prism Singles",
      
          ruleset: ['Pokemon', 'Standard', 'Sleep Clause Mod', 'Species Clause', 'Evasion Clause Mod'],
-         banlist: ['Sould Dew'],
+         banlist: ['Soul Dew'],
      
     },
 	{
